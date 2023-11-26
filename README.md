@@ -6,3 +6,6 @@
 - I am currently working on a side project called Ken...
 
 ![Project](https://github.com/Osagie-Godstand/ken-pic/blob/27b5ee54c7b3bcfc63483b283cb32d8678745fbf/images/ken.png)
+
+- Progress of the app will be shown through images until it is properly tested, deployed, and ready for use. You can find new pictures here -> [ken-pic](https://github.com/Osagie-Godstand/ken-pic) when there is significant progress.  
+
