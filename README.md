@@ -6,5 +6,5 @@
 - I am currently working on a side project called Ken...
 
 
-- Progress of the app will be shown through images until it is properly tested, deployed, and ready for use. You can find new pictures here -> [ken-pic](https://github.com/Osagie-Godstand/ken-pic) when there is significant progress.  
+- Progress of the Ken social platform will be shown through images until it is properly tested, deployed, and ready for use. You can find new pictures here -> [ken-pic](https://github.com/Osagie-Godstand/ken-pic) when there is significant progress.  
 
