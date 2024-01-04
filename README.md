@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏾, Welcome to my Profile</h1>
 
-- I am actively working towards honing my fundamental engineering skills.
+- Continuously learning and applying my knowledge to practical scenarios.
 - My website/blog [odmg.dev](https://odmg.dev/)
 - 📫 You can reach me at **dgodstand@gmail.com**
 - I am currently working on a side project called Ken...
