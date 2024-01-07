@@ -6,5 +6,5 @@
 - I am currently working on a side project called Ken...
 
 
-- The progress of the Ken social platform web application will be shown through images until it is properly tested, deployed, and ready for use. You can find new pictures here -> [ken-pic](https://github.com/Osagie-Godstand/ken-pic) when there is significant progress.  
+- The progress of the Ken social platform web application will be shown through [images](https://github.com/addiologic/ken-progress.git) until it is properly tested, deployed, and ready for use. The repo will remain private for now. I'll consider making it public after I release v1 of the application.   
 
