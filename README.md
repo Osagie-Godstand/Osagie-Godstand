@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏾, Welcome to my Profile</h1>
 
-- I am a software developer who is continuously learning and applying my knowledge to practical scenarios.
+- I am a software developer who is continuously learning and applying my knowledge to real world scenarios.
 
 - My website/blog [odmg.dev](https://odmg.dev/)
 - 📫 You can reach me at **dgodstand@gmail.com**
