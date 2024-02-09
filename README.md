@@ -21,4 +21,4 @@ Progress: Developing the web application has been challenging but great so far.
 
 Final Disclaimer: The project repositories will remain private for now. 
 
-Organization: The GitHub account for the [addIOlogic](https://odmg.dev/) Organization, where 'Ken' will reside, currently only has the logo public.
+Organization: The GitHub account for the [addIOlogic](https://github.com/addiologic) Organization, where 'Ken' resides, currently only has the logo repository set to public.
