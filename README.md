@@ -5,9 +5,10 @@
 - My website/blog [odmg.dev](https://odmg.dev/)
 - 📫 You can reach me at **dgodstand@gmail.com**
   
--                        For those who care to read 😁
-                                     ⬇️⬇️
-I am currently working on the MVP of a side project called Ken, a social platform.
+-     For those who care to read 😁
+                  ⬇️⬇️
+  
+I am currently working on the MVP of my first side project called Ken, a social platform.
 
 I am not following a trend; I have always wanted to do this even before I started learning to code. I am not the type to hop from one unfinished project to another, so I will make sure to complete it, no matter how difficult it gets.
 
