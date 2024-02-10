@@ -11,7 +11,7 @@
   
 I am currently working on the MVP of my first side project, 'Ken,' a social platform.
 
-Disclaimer: I am not following a trend; I have always wanted to do this even before I started learning to code. I am not the type to hop from one unfinished project to another, so I will make sure to complete it, no matter how difficult it gets. Also, if I work on any new personal side project while still building 'Ken,' it'll only be a 'Ken' enabler.
+Disclaimer: I am not following a trend; I have always wanted to do this even before I started learning to code, so I will make sure to complete it, no matter how difficult it gets. 
 
 Goals: The goal is not necessarily to be unique but to offer a seamless user experience and hopefully make the Ken social platform valuable. I aim to ensure that navigating and using the Ken social platform is super easy.
 
