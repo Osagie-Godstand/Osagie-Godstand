@@ -22,4 +22,5 @@ Business Plan: 🤐 I have a few great ideas... I may not include these ideas in
 Progress: Developing the web application has been challenging but great so far.
 
 Final Disclaimer: The project repository will remain private.
+
 Organization: The GitHub account for the [addIOlogic](https://github.com/addiologic) Organization, where 'Ken' resides, only has the logo repository set to public.
