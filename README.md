@@ -17,7 +17,7 @@ Goals: The goal is not necessarily to be unique, but to offer a seamless user ex
 
 Estimates: I won't provide an estimate for the development of this application, but I hope to finish it towards the end of 2024.
 
-Business Plan: 🤐 I have a few great ideas... I may not include these ideas in the first release of the Ken social platform. My motivation for creating the Ken social platform is more personal, but generating money will eventually be needed to keep the Ken social platform alive.
+Business Plan: 🤐 I have a few great ideas... I may not include these ideas in the first release of the Ken social platform. My motivation for creating the Ken social platform is more personal, but generating revenue will eventually be needed to keep the Ken social platform alive.
 
 Progress: Developing the web application has been challenging but great so far.
 
