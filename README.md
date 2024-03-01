@@ -13,7 +13,7 @@ I am currently working on the MVP of my first personal side project, 'Ken,' a so
 
 Disclaimer: I am not following a trend; I have always wanted to do this, even before I started learning to code. I am committed to completing it, no matter how difficult it gets.
 
-Goals: The goal is not to offer a seamless user experience, excluding disruptive ads, and hopefully make the Ken social platform valuable. I aim to ensure that navigating and using the Ken social platform is super easy. 
+Goals: The goal is to offer a seamless user experience, excluding disruptive ads, and hopefully make the Ken social platform valuable. I aim to ensure that navigating and using the Ken social platform is super easy. 
 
 Estimates: I won't provide an estimate for the development of this application due to work and other collaborative side projects that keeps me busy, but I hope to finish it towards the end of 2024. 
 
