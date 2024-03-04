@@ -9,7 +9,7 @@
   
                   ⬇️⬇️
   
-I am currently working on the MVP of my first personal side project, 'Ken,' a social platform. It will not be the typical kind of social platform like x or reddit. 
+I am currently working on the MVP of my first personal side project, 'Ken', a social platform. It will not be the typical kind of social platform like X or Reddit. It'll be a more formal social platform. 
 
 Disclaimer: I am not following a trend; I have always wanted to do this, even before I started learning to code. I am committed to completing it, no matter how difficult it gets.
 
