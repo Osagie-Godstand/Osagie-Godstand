@@ -4,6 +4,8 @@
 
 - My website/blog [odmg.dev](https://odmg.dev/)
 - 📫 You can reach me at **dgodstand@gmail.com**
+
+- I believe that AI is only an enabler, it will never replace humans.
   
    For those who care to read 😁
   
