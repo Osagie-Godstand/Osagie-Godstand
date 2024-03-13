@@ -19,4 +19,4 @@ Estimates: I won't provide an estimate for the development of this application d
 
 Progress: Developing the web application has been challenging but great so far. 
 
-Final Disclaimer: The project repository will remain private. 
+Final Disclaimer: The project repository will remain private for now but aims to be open source in the future. 
