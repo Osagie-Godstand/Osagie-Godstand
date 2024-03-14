@@ -19,6 +19,8 @@ Goals: The goal is to offer a seamless user experience, excluding disruptive ads
 
 Estimates: I won't provide an estimate for the development of this application due to work and other collaborative side projects that keeps me busy, but I hope to finish it towards the end of 2024. 
 
+Tech stack: Go, CSS, HTML, Vanilla JS
+
 Progress: Developing the web application has been challenging but great so far. 
 
 Final Disclaimer: The project repository will remain private for now but aims to be open source in the future. 
