@@ -9,7 +9,7 @@
   
    For those who care to read 😁
   
-                  ⬇️⬇️
+                  ⬇️                                                              ⬇️
   
 I am currently working on the MVP of my first personal side project, 'Ken', a social platform. It will not be the typical kind of social platform like X or Reddit. It'll be a more formal social platform. 
 
