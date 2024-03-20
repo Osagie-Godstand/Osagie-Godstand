@@ -11,16 +11,13 @@
   
                   ⬇️⬇️
   
-I am currently working on the MVP of my first personal side project, 'Ken', a social platform. It will not be the typical kind of social platform like X or Reddit. It'll be a more formal social platform. 
+I am currently working on my first personal side project, 'Ken', a social platform. It will not be the typical kind of social platform like X or Reddit. It'll be a more formal social platform. 
 
-Disclaimer: I have always wanted to do this, even before I started learning to code. I am committed to completing it, no matter how difficult it gets.
+Disclaimer: I have always wanted to pursue this project, even before I began learning to code. I am committed to completing it, regardless of the challenges I may face.
 
-Goals: The goal is to offer a seamless user experience, excluding disruptive ads, and hopefully make the Ken social platform valuable. I aim to ensure that navigating and using the Ken social platform is super easy. 
+Goals: The goal is to offer a seamless user experience, excluding disruptive ads, and hopefully make the Ken social platform valuable. I aim to ensure that navigating and using the Ken social platform is incredibly easy, among other features that I cannot reveal at this time.
 
-Estimates: I won't be providing an estimate for the development of this application due to my current workload and other collaborative side projects. I hope to finish it towards the end of 2024, but my ideas may evolve, potentially requiring more time for the Ken social platform to be fully built.
+Estimates: I cannot provide an estimate for the development of the Ken social platform. It will take quite some time to complete because I have revised my initial plan, which means I will need to strategize and learn as I build this application.
 
-Tech stack: Go, CSS, HTML, Vanilla JS
+Final Disclaimer: The project repository will remain private for now, but the goal is to make it open source in the future.
 
-Progress: Developing the web application has been challenging but great so far. 
-
-Final Disclaimer: The project repository will remain private for now but the aim is to make it open source in the future. 
