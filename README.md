@@ -6,7 +6,7 @@
 
 
   
-   For those who care to read 😁
+   For those who care to read 
   
                   ⬇️⬇️
   
